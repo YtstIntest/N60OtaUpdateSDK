@@ -1,0 +1,11 @@
+framework module N60OtaUpdate {
+  umbrella header "N60OtaUpdate.h"
+
+  export *
+  module * { export * }
+}
+
+module N60OtaUpdate.Swift {
+    header "N60OtaUpdate-Swift.h"
+    requires objc
+}
