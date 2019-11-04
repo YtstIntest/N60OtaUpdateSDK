@@ -18,43 +18,75 @@
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm.swiftdoc</key>
 		<data>
-		UtV6d2+s+xyD1Opv+PMslkIaLoQ=
+		V5lWD4SGB5oSxIolAT+KWljdLFk=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm.swiftmodule</key>
 		<data>
-		Fj/xeXb7H5vUH1TQRcHIeWf62X4=
+		YRMVBFR+O9UqdMmXfh2HWUzHbw4=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		4e2eiQZSpOLw9tZTQSUe55YhHhk=
+		fykY2e7MpACRuO5f7lTawt3Rdk8=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		QNfaeFLeBLDpBZ4Z8jhaAb2ODRE=
+		vwuyS3/ccWv65SEEfmYgBV5c/vo=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		4e2eiQZSpOLw9tZTQSUe55YhHhk=
+		fykY2e7MpACRuO5f7lTawt3Rdk8=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		QNfaeFLeBLDpBZ4Z8jhaAb2ODRE=
+		vwuyS3/ccWv65SEEfmYgBV5c/vo=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
-		UtV6d2+s+xyD1Opv+PMslkIaLoQ=
+		V5lWD4SGB5oSxIolAT+KWljdLFk=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		Fj/xeXb7H5vUH1TQRcHIeWf62X4=
+		YRMVBFR+O9UqdMmXfh2HWUzHbw4=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7.swiftdoc</key>
 		<data>
-		UtV6d2+s+xyD1Opv+PMslkIaLoQ=
+		V5lWD4SGB5oSxIolAT+KWljdLFk=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		Fj/xeXb7H5vUH1TQRcHIeWf62X4=
+		YRMVBFR+O9UqdMmXfh2HWUzHbw4=
+		</data>
+		<key>Modules/N60OtaUpdate.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
+		<data>
+		dVVEzzrRj4Nm68BDeaqZhYrxyHA=
+		</data>
+		<key>Modules/N60OtaUpdate.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
+		<data>
+		jj/zg3grHthUrvcssLfNxqN7ifI=
+		</data>
+		<key>Modules/N60OtaUpdate.swiftmodule/i386.swiftdoc</key>
+		<data>
+		dVVEzzrRj4Nm68BDeaqZhYrxyHA=
+		</data>
+		<key>Modules/N60OtaUpdate.swiftmodule/i386.swiftmodule</key>
+		<data>
+		jj/zg3grHthUrvcssLfNxqN7ifI=
+		</data>
+		<key>Modules/N60OtaUpdate.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		T5L6Q8pDRIrTipP7k3nn5x+yYI0=
+		</data>
+		<key>Modules/N60OtaUpdate.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		BzZkENDG7iKvoOis5N4JSvtI/GA=
+		</data>
+		<key>Modules/N60OtaUpdate.swiftmodule/x86_64.swiftdoc</key>
+		<data>
+		T5L6Q8pDRIrTipP7k3nn5x+yYI0=
+		</data>
+		<key>Modules/N60OtaUpdate.swiftmodule/x86_64.swiftmodule</key>
+		<data>
+		BzZkENDG7iKvoOis5N4JSvtI/GA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -89,110 +121,198 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UtV6d2+s+xyD1Opv+PMslkIaLoQ=
+			V5lWD4SGB5oSxIolAT+KWljdLFk=
 			</data>
 			<key>hash2</key>
 			<data>
-			VOcHXIcRfRzUpFpdUbROURgzQU+NIoZnNFBOyhzaj6A=
+			TgK7Y9S7giAH64CZxEi9RjjnCupvOSsa1B60XMqAgJA=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Fj/xeXb7H5vUH1TQRcHIeWf62X4=
+			YRMVBFR+O9UqdMmXfh2HWUzHbw4=
 			</data>
 			<key>hash2</key>
 			<data>
-			epOel2SH09yHdIMxX38NfXMzOaFV/Gu/Hdiy4ybIlic=
+			bNaB83B3dzS1MBRgHO4tcmlcwyKlpTWN5DThBfEqHqU=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4e2eiQZSpOLw9tZTQSUe55YhHhk=
+			fykY2e7MpACRuO5f7lTawt3Rdk8=
 			</data>
 			<key>hash2</key>
 			<data>
-			eAAnwqirXKiCnzfueTqWlxhzWgOrwLCEZnZNPOrKmM8=
+			20reXzQAHXfgj8AYHHHd99IfMWPFRn9YHOdsOcaP6zo=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QNfaeFLeBLDpBZ4Z8jhaAb2ODRE=
+			vwuyS3/ccWv65SEEfmYgBV5c/vo=
 			</data>
 			<key>hash2</key>
 			<data>
-			PAeHzbA53DVp1qnYWOt1B7tC6uNjI7RvX0K706zR6kE=
+			zHJarsoWsdJE4T9X/eJWVxcs6zOQtYONBSn+Fhzshh4=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4e2eiQZSpOLw9tZTQSUe55YhHhk=
+			fykY2e7MpACRuO5f7lTawt3Rdk8=
 			</data>
 			<key>hash2</key>
 			<data>
-			eAAnwqirXKiCnzfueTqWlxhzWgOrwLCEZnZNPOrKmM8=
+			20reXzQAHXfgj8AYHHHd99IfMWPFRn9YHOdsOcaP6zo=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QNfaeFLeBLDpBZ4Z8jhaAb2ODRE=
+			vwuyS3/ccWv65SEEfmYgBV5c/vo=
 			</data>
 			<key>hash2</key>
 			<data>
-			PAeHzbA53DVp1qnYWOt1B7tC6uNjI7RvX0K706zR6kE=
+			zHJarsoWsdJE4T9X/eJWVxcs6zOQtYONBSn+Fhzshh4=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UtV6d2+s+xyD1Opv+PMslkIaLoQ=
+			V5lWD4SGB5oSxIolAT+KWljdLFk=
 			</data>
 			<key>hash2</key>
 			<data>
-			VOcHXIcRfRzUpFpdUbROURgzQU+NIoZnNFBOyhzaj6A=
+			TgK7Y9S7giAH64CZxEi9RjjnCupvOSsa1B60XMqAgJA=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Fj/xeXb7H5vUH1TQRcHIeWf62X4=
+			YRMVBFR+O9UqdMmXfh2HWUzHbw4=
 			</data>
 			<key>hash2</key>
 			<data>
-			epOel2SH09yHdIMxX38NfXMzOaFV/Gu/Hdiy4ybIlic=
+			bNaB83B3dzS1MBRgHO4tcmlcwyKlpTWN5DThBfEqHqU=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UtV6d2+s+xyD1Opv+PMslkIaLoQ=
+			V5lWD4SGB5oSxIolAT+KWljdLFk=
 			</data>
 			<key>hash2</key>
 			<data>
-			VOcHXIcRfRzUpFpdUbROURgzQU+NIoZnNFBOyhzaj6A=
+			TgK7Y9S7giAH64CZxEi9RjjnCupvOSsa1B60XMqAgJA=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Fj/xeXb7H5vUH1TQRcHIeWf62X4=
+			YRMVBFR+O9UqdMmXfh2HWUzHbw4=
 			</data>
 			<key>hash2</key>
 			<data>
-			epOel2SH09yHdIMxX38NfXMzOaFV/Gu/Hdiy4ybIlic=
+			bNaB83B3dzS1MBRgHO4tcmlcwyKlpTWN5DThBfEqHqU=
+			</data>
+		</dict>
+		<key>Modules/N60OtaUpdate.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dVVEzzrRj4Nm68BDeaqZhYrxyHA=
+			</data>
+			<key>hash2</key>
+			<data>
+			sIWpY6bbiQ7ka3PcXMqjzfvFT7+gRJsXRm8q9h9jj48=
+			</data>
+		</dict>
+		<key>Modules/N60OtaUpdate.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jj/zg3grHthUrvcssLfNxqN7ifI=
+			</data>
+			<key>hash2</key>
+			<data>
+			t/tRaq9O3L62ZP7iykBohpvUDAUef81NeXBMdHpEHHk=
+			</data>
+		</dict>
+		<key>Modules/N60OtaUpdate.swiftmodule/i386.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dVVEzzrRj4Nm68BDeaqZhYrxyHA=
+			</data>
+			<key>hash2</key>
+			<data>
+			sIWpY6bbiQ7ka3PcXMqjzfvFT7+gRJsXRm8q9h9jj48=
+			</data>
+		</dict>
+		<key>Modules/N60OtaUpdate.swiftmodule/i386.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jj/zg3grHthUrvcssLfNxqN7ifI=
+			</data>
+			<key>hash2</key>
+			<data>
+			t/tRaq9O3L62ZP7iykBohpvUDAUef81NeXBMdHpEHHk=
+			</data>
+		</dict>
+		<key>Modules/N60OtaUpdate.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			T5L6Q8pDRIrTipP7k3nn5x+yYI0=
+			</data>
+			<key>hash2</key>
+			<data>
+			03NTjGukSwOOFB/bNLbBw1W7XUUfgSR8E+QolJh3Cd4=
+			</data>
+		</dict>
+		<key>Modules/N60OtaUpdate.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BzZkENDG7iKvoOis5N4JSvtI/GA=
+			</data>
+			<key>hash2</key>
+			<data>
+			/vKpKoYh4Sw8ZoaMa/b5bXNIfNLvJ58vgwNb8x9F3DU=
+			</data>
+		</dict>
+		<key>Modules/N60OtaUpdate.swiftmodule/x86_64.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			T5L6Q8pDRIrTipP7k3nn5x+yYI0=
+			</data>
+			<key>hash2</key>
+			<data>
+			03NTjGukSwOOFB/bNLbBw1W7XUUfgSR8E+QolJh3Cd4=
+			</data>
+		</dict>
+		<key>Modules/N60OtaUpdate.swiftmodule/x86_64.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BzZkENDG7iKvoOis5N4JSvtI/GA=
+			</data>
+			<key>hash2</key>
+			<data>
+			/vKpKoYh4Sw8ZoaMa/b5bXNIfNLvJ58vgwNb8x9F3DU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
