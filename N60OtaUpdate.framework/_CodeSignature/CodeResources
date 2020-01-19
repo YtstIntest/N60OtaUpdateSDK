@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm.swiftmodule</key>
 		<data>
-		/u/N4UGLG/++yEk6513BqFBZCgg=
+		IzX53GERfHKGt/yiZBEN3rNfeiQ=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		QSzQVNlcVQo3wPOYiJ58J60PhvE=
+		gs6zVjioE/OrFV9HJqqC6uqPO8c=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		QSzQVNlcVQo3wPOYiJ58J60PhvE=
+		gs6zVjioE/OrFV9HJqqC6uqPO8c=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		/u/N4UGLG/++yEk6513BqFBZCgg=
+		IzX53GERfHKGt/yiZBEN3rNfeiQ=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7.swiftdoc</key>
 		<data>
@@ -54,39 +54,7 @@
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		/u/N4UGLG/++yEk6513BqFBZCgg=
-		</data>
-		<key>Modules/N60OtaUpdate.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
-		<data>
-		gmZXE4hTB3G+LQELgdscJBjF5FE=
-		</data>
-		<key>Modules/N60OtaUpdate.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
-		<data>
-		BelKG0kQfMDKVVL1Bwf9etTpY2k=
-		</data>
-		<key>Modules/N60OtaUpdate.swiftmodule/i386.swiftdoc</key>
-		<data>
-		gmZXE4hTB3G+LQELgdscJBjF5FE=
-		</data>
-		<key>Modules/N60OtaUpdate.swiftmodule/i386.swiftmodule</key>
-		<data>
-		BelKG0kQfMDKVVL1Bwf9etTpY2k=
-		</data>
-		<key>Modules/N60OtaUpdate.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
-		<data>
-		4zqCZ4VQht5NPnnIO98MRocYp1Y=
-		</data>
-		<key>Modules/N60OtaUpdate.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		L4iUcJFQefFYbktZC07kmoF4GmI=
-		</data>
-		<key>Modules/N60OtaUpdate.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		4zqCZ4VQht5NPnnIO98MRocYp1Y=
-		</data>
-		<key>Modules/N60OtaUpdate.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		L4iUcJFQefFYbktZC07kmoF4GmI=
+		IzX53GERfHKGt/yiZBEN3rNfeiQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -132,11 +100,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/u/N4UGLG/++yEk6513BqFBZCgg=
+			IzX53GERfHKGt/yiZBEN3rNfeiQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			NtsN7r29QpyNMn05zdAhLbByvFNQIwlJbMzwHoChhnQ=
+			xUEcvWHknCEyzfHk3PE0qU19N6gqY7+Q42SuDTv6cyc=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -154,11 +122,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QSzQVNlcVQo3wPOYiJ58J60PhvE=
+			gs6zVjioE/OrFV9HJqqC6uqPO8c=
 			</data>
 			<key>hash2</key>
 			<data>
-			/46QL8fK9nQghbCc1ohLkL5TVusTuQ0XgQTZmZF729s=
+			RnIUysO3DNxKuA2NBPqJ3WqQ2mCCBq8WVtkOR6Tuf9E=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64.swiftdoc</key>
@@ -176,11 +144,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QSzQVNlcVQo3wPOYiJ58J60PhvE=
+			gs6zVjioE/OrFV9HJqqC6uqPO8c=
 			</data>
 			<key>hash2</key>
 			<data>
-			/46QL8fK9nQghbCc1ohLkL5TVusTuQ0XgQTZmZF729s=
+			RnIUysO3DNxKuA2NBPqJ3WqQ2mCCBq8WVtkOR6Tuf9E=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -198,11 +166,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/u/N4UGLG/++yEk6513BqFBZCgg=
+			IzX53GERfHKGt/yiZBEN3rNfeiQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			NtsN7r29QpyNMn05zdAhLbByvFNQIwlJbMzwHoChhnQ=
+			xUEcvWHknCEyzfHk3PE0qU19N6gqY7+Q42SuDTv6cyc=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7.swiftdoc</key>
@@ -220,99 +188,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/u/N4UGLG/++yEk6513BqFBZCgg=
+			IzX53GERfHKGt/yiZBEN3rNfeiQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			NtsN7r29QpyNMn05zdAhLbByvFNQIwlJbMzwHoChhnQ=
-			</data>
-		</dict>
-		<key>Modules/N60OtaUpdate.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gmZXE4hTB3G+LQELgdscJBjF5FE=
-			</data>
-			<key>hash2</key>
-			<data>
-			mBqO87LfMFGNNG2rKjtX2eFA139PBbUlZ6FBuS4zQwk=
-			</data>
-		</dict>
-		<key>Modules/N60OtaUpdate.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BelKG0kQfMDKVVL1Bwf9etTpY2k=
-			</data>
-			<key>hash2</key>
-			<data>
-			QXuVJsuZcjiGf2l85vW/wRkxM75C4hSAFKQpwEL4tMU=
-			</data>
-		</dict>
-		<key>Modules/N60OtaUpdate.swiftmodule/i386.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gmZXE4hTB3G+LQELgdscJBjF5FE=
-			</data>
-			<key>hash2</key>
-			<data>
-			mBqO87LfMFGNNG2rKjtX2eFA139PBbUlZ6FBuS4zQwk=
-			</data>
-		</dict>
-		<key>Modules/N60OtaUpdate.swiftmodule/i386.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BelKG0kQfMDKVVL1Bwf9etTpY2k=
-			</data>
-			<key>hash2</key>
-			<data>
-			QXuVJsuZcjiGf2l85vW/wRkxM75C4hSAFKQpwEL4tMU=
-			</data>
-		</dict>
-		<key>Modules/N60OtaUpdate.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4zqCZ4VQht5NPnnIO98MRocYp1Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			e163CnW2yOkWFQSEgdXoN9p7YHNQq07XSmHzZWCfktE=
-			</data>
-		</dict>
-		<key>Modules/N60OtaUpdate.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			L4iUcJFQefFYbktZC07kmoF4GmI=
-			</data>
-			<key>hash2</key>
-			<data>
-			fLq0+O5fwIx3WrW/0kA95asqB08u6uZU294yeRvE26g=
-			</data>
-		</dict>
-		<key>Modules/N60OtaUpdate.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4zqCZ4VQht5NPnnIO98MRocYp1Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			e163CnW2yOkWFQSEgdXoN9p7YHNQq07XSmHzZWCfktE=
-			</data>
-		</dict>
-		<key>Modules/N60OtaUpdate.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			L4iUcJFQefFYbktZC07kmoF4GmI=
-			</data>
-			<key>hash2</key>
-			<data>
-			fLq0+O5fwIx3WrW/0kA95asqB08u6uZU294yeRvE26g=
+			xUEcvWHknCEyzfHk3PE0qU19N6gqY7+Q42SuDTv6cyc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
