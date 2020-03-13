@@ -18,43 +18,43 @@
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm.swiftdoc</key>
 		<data>
-		QJ4/xvkbesc4daBc51SG0TG68sg=
+		yd6fn6VwtmAeo3UtlouaIbJan/w=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm.swiftmodule</key>
 		<data>
-		IzX53GERfHKGt/yiZBEN3rNfeiQ=
+		Xg9EnHGrW0UqwAJnZPH9rG5dB6E=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		WJZuIrJjyoBe2NbJ7ajr7iHIGFQ=
+		ybk9zEAYHLJZlakQiZ4V/6vRGpg=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		gs6zVjioE/OrFV9HJqqC6uqPO8c=
+		StZ813VbtTo7Sfbh4Bvu/M1NUf4=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		WJZuIrJjyoBe2NbJ7ajr7iHIGFQ=
+		ybk9zEAYHLJZlakQiZ4V/6vRGpg=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		gs6zVjioE/OrFV9HJqqC6uqPO8c=
+		StZ813VbtTo7Sfbh4Bvu/M1NUf4=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
-		QJ4/xvkbesc4daBc51SG0TG68sg=
+		yd6fn6VwtmAeo3UtlouaIbJan/w=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		IzX53GERfHKGt/yiZBEN3rNfeiQ=
+		Xg9EnHGrW0UqwAJnZPH9rG5dB6E=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7.swiftdoc</key>
 		<data>
-		QJ4/xvkbesc4daBc51SG0TG68sg=
+		yd6fn6VwtmAeo3UtlouaIbJan/w=
 		</data>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		IzX53GERfHKGt/yiZBEN3rNfeiQ=
+		Xg9EnHGrW0UqwAJnZPH9rG5dB6E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -89,110 +89,110 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QJ4/xvkbesc4daBc51SG0TG68sg=
+			yd6fn6VwtmAeo3UtlouaIbJan/w=
 			</data>
 			<key>hash2</key>
 			<data>
-			2n1Ug7KwldSES+Gs07X5Abo+qKhq9dzV6FLW3/PbxEY=
+			3jiNcWyW7eIWI4ehx5L9T8yu8o5X2jEMSEDjb/MUHw8=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IzX53GERfHKGt/yiZBEN3rNfeiQ=
+			Xg9EnHGrW0UqwAJnZPH9rG5dB6E=
 			</data>
 			<key>hash2</key>
 			<data>
-			xUEcvWHknCEyzfHk3PE0qU19N6gqY7+Q42SuDTv6cyc=
+			NF3KfvnZ37TyZL/0MxsVZXdEyAxycMe2z7wRaWbCSNs=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WJZuIrJjyoBe2NbJ7ajr7iHIGFQ=
+			ybk9zEAYHLJZlakQiZ4V/6vRGpg=
 			</data>
 			<key>hash2</key>
 			<data>
-			lM6nNGqVCTxiRi9FIJ0Bo1t6DYtTFl48JRBJdkbZq64=
+			FsmaW5Vm8SNNUdEwpxM8DRliuHnko+qOfmLQl7E7ehc=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gs6zVjioE/OrFV9HJqqC6uqPO8c=
+			StZ813VbtTo7Sfbh4Bvu/M1NUf4=
 			</data>
 			<key>hash2</key>
 			<data>
-			RnIUysO3DNxKuA2NBPqJ3WqQ2mCCBq8WVtkOR6Tuf9E=
+			ESL48ZNg8VRC/vbpx/jS7WkZLcXnyZu/cmdJArLVyec=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WJZuIrJjyoBe2NbJ7ajr7iHIGFQ=
+			ybk9zEAYHLJZlakQiZ4V/6vRGpg=
 			</data>
 			<key>hash2</key>
 			<data>
-			lM6nNGqVCTxiRi9FIJ0Bo1t6DYtTFl48JRBJdkbZq64=
+			FsmaW5Vm8SNNUdEwpxM8DRliuHnko+qOfmLQl7E7ehc=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gs6zVjioE/OrFV9HJqqC6uqPO8c=
+			StZ813VbtTo7Sfbh4Bvu/M1NUf4=
 			</data>
 			<key>hash2</key>
 			<data>
-			RnIUysO3DNxKuA2NBPqJ3WqQ2mCCBq8WVtkOR6Tuf9E=
+			ESL48ZNg8VRC/vbpx/jS7WkZLcXnyZu/cmdJArLVyec=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QJ4/xvkbesc4daBc51SG0TG68sg=
+			yd6fn6VwtmAeo3UtlouaIbJan/w=
 			</data>
 			<key>hash2</key>
 			<data>
-			2n1Ug7KwldSES+Gs07X5Abo+qKhq9dzV6FLW3/PbxEY=
+			3jiNcWyW7eIWI4ehx5L9T8yu8o5X2jEMSEDjb/MUHw8=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IzX53GERfHKGt/yiZBEN3rNfeiQ=
+			Xg9EnHGrW0UqwAJnZPH9rG5dB6E=
 			</data>
 			<key>hash2</key>
 			<data>
-			xUEcvWHknCEyzfHk3PE0qU19N6gqY7+Q42SuDTv6cyc=
+			NF3KfvnZ37TyZL/0MxsVZXdEyAxycMe2z7wRaWbCSNs=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QJ4/xvkbesc4daBc51SG0TG68sg=
+			yd6fn6VwtmAeo3UtlouaIbJan/w=
 			</data>
 			<key>hash2</key>
 			<data>
-			2n1Ug7KwldSES+Gs07X5Abo+qKhq9dzV6FLW3/PbxEY=
+			3jiNcWyW7eIWI4ehx5L9T8yu8o5X2jEMSEDjb/MUHw8=
 			</data>
 		</dict>
 		<key>Modules/N60OtaUpdate.swiftmodule/armv7.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IzX53GERfHKGt/yiZBEN3rNfeiQ=
+			Xg9EnHGrW0UqwAJnZPH9rG5dB6E=
 			</data>
 			<key>hash2</key>
 			<data>
-			xUEcvWHknCEyzfHk3PE0qU19N6gqY7+Q42SuDTv6cyc=
+			NF3KfvnZ37TyZL/0MxsVZXdEyAxycMe2z7wRaWbCSNs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
