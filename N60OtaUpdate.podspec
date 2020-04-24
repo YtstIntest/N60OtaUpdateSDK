@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 s.name         = 'N60OtaUpdate'
 
 #版本号
-s.version      = '1.1.7'
+s.version      = '1.1.8'
 
 #许可证
 s.license      = { :type => 'MIT' } 
@@ -40,6 +40,8 @@ s.public_header_files = 'N60OtaUpdate.framework/Headers/N60OtaUpdate.h'
 
 s.dependency 'Moya'
 s.dependency 'HandyJSON'
+s.dependency 'Alamofire'
+
 
 #依赖库
 s.frameworks   = 'UIKit','Foundation'
