@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 s.name         = 'N60OtaUpdate'
 
 #版本号
-s.version      = '1.2.5'
+s.version      = '1.2.6'
 
 #许可证
 s.license      = { :type => 'MIT' } 
@@ -22,7 +22,7 @@ s.summary      = '基于swift车机OTA升级SDK.'
 s.source       = { :git => 'https://github.com/YtstIntest/N60OtaUpdateSDK.git', :tag => s.version }
 
 #支持最小系统版本
-s.platform     = :ios, '8.0'
+s.platform     = :ios, '9.0'
 s.swift_version = '5.0'
 
 #需要包含的源文件 
