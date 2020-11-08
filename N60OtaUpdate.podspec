@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 s.name         = 'N60OtaUpdate'
 
 #版本号
-s.version      = '1.2.2'
+s.version      = '1.2.3'
 
 #许可证
 s.license      = { :type => 'MIT' } 
